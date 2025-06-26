@@ -1,0 +1,9 @@
+python-dotenv
+aiohttp
+networkx
+python-telegram-bot==13.15
+cryptography
+decimal
+pandas
+numpy
+scikit-learn
